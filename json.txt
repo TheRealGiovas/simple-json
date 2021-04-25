@@ -1,0 +1,31 @@
+[
+  {
+  "nombre":"Juan",
+  "pasatiempo":"Comer",
+  "edad":20,
+  "phone":3365465520,
+  "address":"Bikini Bottom"
+  },
+  {  
+  "nombre":"Dalia",
+  "pasatiempo":"Comer",
+  "edad":21,
+  "phone":3365465521,
+  "address":"Bikini Bottom"
+  },
+  {
+  "nombre":"Rosalinda",
+  "pasatiempo":"Comer",
+  "edad":22,
+  "phone":3365465522,
+  "address":"Bikini Bottom"
+  },
+  {
+  "nombre":"Pikachu",
+  "pasatiempo":"Tejer",
+  "edad":23,
+  "phone":3365465523,
+  "address":" Acapulco"
+  }
+
+]
